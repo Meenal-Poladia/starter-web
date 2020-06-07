@@ -13,3 +13,6 @@ Sample website with plenty of files for demos. The purpose is to help in underst
 This will help the client to view the code on the server.
 
 ## How to Contribute
+
+##Copyright
+2014 Copyright issues
