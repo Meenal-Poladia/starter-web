@@ -13,6 +13,7 @@ Sample website with plenty of files for demos. The purpose is to help in underst
 This will help the client to view the code on the server.
 
 ## How to Contribute
+You can fork this repository and contribute to the file.
 
 ##Copyright
 2014 Copyright issues
