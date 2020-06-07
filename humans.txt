@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Meenal Poaldia> -- <Assistant> -- <Confident>
 
 # THANKS
 
