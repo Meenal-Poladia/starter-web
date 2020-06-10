@@ -1,11 +1,12 @@
 # Starter Web Repo
 
-This repository will show how to use Git and GitHub work 
+This repository will show how to use Git and GitHub work
 
 ## Introduction
 This is the a practise session from Udemy. It is the first session. <br>
 Adding a sentence for rebasing example. <br>
-Some more changes for Rebasing
+Some more changes for Rebasing <br>
+Stashing example
 
 ## Purpose
 
