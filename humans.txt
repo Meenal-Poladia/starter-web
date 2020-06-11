@@ -8,6 +8,7 @@
 # THANKS
 
     <yet to be edited>
+	A stashing example
 
 # TECHNOLOGY COLOPHON
 
