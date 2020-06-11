@@ -1,6 +1,7 @@
 # Starter Web Repo
 
-This repository will show how to use Git and GitHub work
+This repository will show how to use Git and GitHub work. <br>
+A quick fix to readme.
 
 ## Introduction
 This is the a practise session from Udemy. It is the first session. <br>
